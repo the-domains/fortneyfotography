@@ -1,0 +1,28 @@
+name: fortneyfotography
+favicon: null
+layout_spectrum: 0.4638340468518436
+typography_spectrum: 0.779651069547981
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.17791983019560575
+  lightness: 0.06666624452918768
+  saturation: 0.030623352387920022
+  rhythmicContrast: 0.9009849061258137
+purpose: []
